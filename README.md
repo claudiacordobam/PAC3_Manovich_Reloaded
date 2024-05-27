@@ -18,4 +18,4 @@ Universitat Oberta de Catalunya
 ### Bibliografia
 ### Recursos gràfics usats
 --------
-Llicència: Material textual llicènciat sota la GNU General Public License v3.0. Imatges llicenciades sota la llicència gratuïta d'[Unsplash](https://unsplash.com/license)
+Llicència: Material textual llicènciat sota la GNU General Public License v3.0. Les imatges conserven la llicència inicial que els autors i/o fonts originals hagin aplicat.
