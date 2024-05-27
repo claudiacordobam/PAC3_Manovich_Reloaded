@@ -50,6 +50,8 @@ D'acord amb Manovich, *"la hibridació dels mitjans constitueix una nova fase es
 </table>
 
 ## Conclusions
+Tal com s'ha pogut observar, en el món digital actual, és possible trobar exemples d'hibridació en formats molt diversos: des d'interfícies de programari creatiu en línia, fins a representacions de dades actuals que, comptant amb una narrativa de màrqueting, puguin ser incloses a *landing pages* de llocs web. Seguint els coneixements exposats per Lev Manovich, és d'esperar que continuïn sorgint nous híbrids a partir dels híbrids ja generats, promovent el que ell anomena la nova estètica híbrida, i continuant evolucionant les possibilitats del *metamitjà* ordinador imaginat per Alan Kay fa gairebé sis dècades [1].
+
 ## Referències i recursos
 ### Bibliografia
 > [1] 	L. Manovich, *El Software Toma el Mando*, Barcelona: Editorial UOC, 2013.  
