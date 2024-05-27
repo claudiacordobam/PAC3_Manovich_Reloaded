@@ -14,7 +14,7 @@ A la seva obra publicada l’any 2013, “El Software Pren el Comandament”, Le
 > 
 > Lev Manovich, 2013 [1]
 
-Aquesta nova experiència, sorgida gràcies a l'evolució de les possibilitats tecnològiques del metamitjà ordinador, es diferencia, segons Manovich, de la multimèdia [1]. Segons ell, i tal com s'observa a la citació anterior, mentre que a la multimèdia els continguts conviuen conjuntament sense arribar a fusionar-se, amb la hibridació, els mitjans es fusionen, donant peu a híbrids que, alhora, es poden fusionar amb nous híbrids  [1].
+Aquesta nova experiència, sorgida gràcies a l'evolució de les possibilitats tecnològiques del *metamitjà* ordinador, es diferencia, segons Manovich, de la multimèdia [1]. Segons ell, i tal com s'observa a la citació anterior, mentre que a la multimèdia els continguts conviuen conjuntament sense arribar a fusionar-se, amb la hibridació, els mitjans es fusionen, donant peu a híbrids que, alhora, es poden fusionar amb nous híbrids  [1].
 
 D'acord amb Manovich, *"la hibridació dels mitjans constitueix una nova fase essencial de la història dels mitjans"* [1]. Donada la importància de la hibridació i de les seves  possibilitats de creació, aquesta Prova d'Avaluació Continuada busca poder analitzar dos exemples que constitueixin un cas d'hibridació, per tal de poder analitzar-los seguint els coneixements i conceptes plantejats per Lev Manovich.
 
