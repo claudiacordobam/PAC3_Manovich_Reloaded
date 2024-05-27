@@ -8,6 +8,15 @@ Universitat Oberta de Catalunya
 ![Ulleres rodones damunt una taula. Els vidres reflecteixen llums de neó](https://images.unsplash.com/photo-1615210768832-159ca3912a05?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA==)
 
 ## Plantejament 
+A la seva obra publicada l’any 2013, “El Software Pren el Comandament”, Lev Manovich reflexiona, entre altres conceptes, sobre la hibridació [1]. D’acord amb les seves paraules, aquest concepte implica la fusió de diversos mitjans per oferir experiències noves i coherents [1]:
+
+> En los híbridos de medios, las interfaces, técnicas y en última instancia las presuposiciones más básicas de los diversos formatos y tradiciones de medios se unen y dan pie a nuevas _gestalts_ de medios. Es decir, se fusionan para ofrecer una experiencia nueva y coherente, que es distinto a experimentar los elementos uno por uno.
+> 
+> Lev Manovich, 2013 [1]
+
+Aquesta nova experiència, sorgida gràcies a l'evolució de les possibilitats tecnològiques del metamitjà ordinador, es diferencia, segons Manovich, de la multimèdia [1]. Segons ell, i tal com s'observa a la citació anterior, mentre que a la multimèdia els continguts conviuen conjuntament sense arribar a fusionar-se, amb la hibridació, els mitjans es fusionen, donant peu a híbrids que, alhora, es poden fusionar amb nous híbrids  [1].
+
+D'acord amb Manovich, *"la hibridació dels mitjans constitueix una nova fase essencial de la història dels mitjans"* [1]. Donada la importància de la hibridació i de les seves  possibilitats de creació, aquesta Prova d'Avaluació Continuada busca poder analitzar dos exemples que constitueixin un cas d'hibridació, per tal de poder analitzar-los seguint els coneixements i conceptes plantejats per Lev Manovich.
 
 ## 🖋️ Re-descobrint la hibridació: Figma
 <table>
