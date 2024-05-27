@@ -1,7 +1,7 @@
 # Re-descobrint la hibridació: Figma
 [Figma](https://www.figma.com/) és una eina de disseny col·laboratiu en línia especialment usada per disseny d’interfícies, d’experiències d’usuari i de wireframes de pàgines web [1]. Alhora, serveix com a exemple per il·lustrar un dels conceptes plantejats per Lev Manovich a la seva obra “El Software Pren el Comandament”: la hibridació [2].
 
-Manovich sosté a la seva obra que la hibridació, fase posterior a la implementació de l’ordinador com a _metamitjà_, és un concepte en què els mitjans es fusionen per crear híbrids que no només existeixen _un al costat de l’altre_, sinó que evolucionen per oferir noves experiències a l’usuari [2].
+Com es comentava al plantejament, Manovich sosté a la seva obra que la hibridació, fase posterior a la implementació de l’ordinador com a _metamitjà_, és un concepte en què els mitjans es fusionen per crear híbrids que no només existeixen _un al costat de l’altre_, sinó que evolucionen per oferir noves experiències a l’usuari [2].
 
 Figma incorpora a la seva GUI elements clàssics de programes de dibuix digital,  edició d’imatges i tractament de gràfics en moviment, elements de programari destinat a l’edició vectorial, eines d’edició de text, característiques de programes de revisió de documents, i altres característiques genèriques com la possibilitat de compartir o descarregar el document, o els filtres de cerca. Addicionalment, permet la col·laboració simultània en línia i la creació d’equips de treball.
 
@@ -13,6 +13,6 @@ Figma, com la resta d’híbrids, no es pot “reduir a la suma dels mitjans que
 
 ![Ordinador que mostra, a la seva pantalla, un projecte obert a Figma, Al damunt de l'ordinador hi ha un telèfon mòbil, i al costat una planta](https://images.unsplash.com/photo-1605907126120-f68611516ecc?q=80&w=2670&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA==)
 
-Amb Figma, es reconfiguren les característiques dels mitjans i els elements que formen part de la seva interfície, presentant així una de les característiques dels híbrids definida per Manovich, la reconfiguració [2], i suposant una evolució respecte a les possibilitats creatives anteriors.
+Amb Figma, es reconfiguren les característiques dels mitjans i els elements que formen part de la seva interfície, presentant així una de les característiques dels híbrids definida per Manovich, la reconfiguració [2], i suposant una evolució respecte a les possibilitats creatives anteriors. Addicionalment, com succeeix amb el programari creatiu, Figma aconsegueix crear una remescla profunda dels mitjans, cosa que, segons Manovich, ha aconseguit configurar el llenguatge visual de què gaudeix la nostra societat [1].
 
 En conclusió, doncs, la fusió d’elements de programari divers, la nova experiència de disseny que comporta, així com la reconfiguració que suposa dels mitjans que la componen, fan que sigui possible classificar tant la interfície de Figma com alguns dels nous formats generats pels usuaris amb aquesta eina, com un exemple d’hibridació, seguint els conceptes exposats per Manovich a la seva obra.
