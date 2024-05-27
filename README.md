@@ -50,9 +50,23 @@ D'acord amb Manovich, *"la hibridació dels mitjans constitueix una nova fase es
 </table>
 
 ## Conclusions
-
 ## Referències i recursos
 ### Bibliografia
+> [1] 	L. Manovich, *El Software Toma el Mando*, Barcelona: Editorial UOC, 2013.  
+
+> [2] 	Figma, «*How you design, align, and build matters. Do it together with Figma.*,» s.d.. [En línia]. Disponible: https://www.figma.com/. [Últim accés: 24 de maig 2024].  
+
+> [3] 	W3 Schools, «*What is GitHub?*,» W3 Schools, s.d.. [En línia]. Disponible: https://www.w3schools.com/whatis/whatis_github.asp. [Últim accés: 23 de maig de 2024].  
+
+> [4] 	T. Ahlin, «*How we built the GitHub globe*,» GitHub Blog, 2020. [En línia]. Disponible: https://github.blog/2020-12-21-how-we-built-the-github-globe/. [Últim accés: 23 de maig de 2024].  
+
+> [5] 	T. Dohmke, «*100 million developers and counting*,» GitHub Blog, 2023. [En línia]. Disponible: https://github.blog/2023-01-25-100-million-developers-and-counting/. [Últim accés: 23 de maig de 2024].  
+
+> [6] 	GitHub, «*GitHub: Let's build from here*,» GitHub, 2024. [En línia]. Disponible: https://github.com/. [Últim accés: 23 de maig de 2024].  
+
+
+
+
 ### Recursos gràfics usats
 --------
 Llicència: Material textual llicènciat sota la GNU General Public License v3.0. Les imatges conserven la llicència inicial que els autors i/o fonts originals hagin aplicat.
