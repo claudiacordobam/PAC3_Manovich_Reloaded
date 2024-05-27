@@ -1,5 +1,5 @@
 # Re-descobrint la hibridació: Figma
-Figma és una eina de disseny col·laboratiu en línia especialment usada per disseny d’interfícies, d’experiències d’usuari i de wireframes de pàgines web [1]. Alhora, serveix com a exemple per il·lustrar un dels conceptes plantejats per Lev Manovich a la seva obra “El Software Pren el Comandament”: la hibridació [2].
+[Figma](https://www.figma.com/) és una eina de disseny col·laboratiu en línia especialment usada per disseny d’interfícies, d’experiències d’usuari i de wireframes de pàgines web [1]. Alhora, serveix com a exemple per il·lustrar un dels conceptes plantejats per Lev Manovich a la seva obra “El Software Pren el Comandament”: la hibridació [2].
 
 Manovich sosté a la seva obra que la hibridació, fase posterior a la implementació de l’ordinador com a _metamitjà_, és un concepte en què els mitjans es fusionen per crear híbrids que no només existeixen _un al costat de l’altre_, sinó que evolucionen per oferir noves experiències a l’usuari [2].
 
