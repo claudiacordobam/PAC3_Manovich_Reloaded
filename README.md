@@ -9,10 +9,36 @@ Universitat Oberta de Catalunya
 
 ## Plantejament 
 
-## Re-descobrint la hibridació: Figma
+## 🖋️ Re-descobrint la hibridació: Figma
+<table>
+  <tr>
+    <td>
+      <img src="https://images.unsplash.com/photo-1602576666092-bf6447a729fc?q=80&w=1932&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D">
+      </td>
+      <td>
+      <p>Figma és una eina de disseny col·laboratiu en línia especialment usada per disseny d’interfícies, d’experiències d’usuari i de wireframes de pàgines web. Tant la seva interfície com alguns dels productes digital que permet crear serveixen com a exemple per parlar de la hibridació.
+        
+  [Saber-ne més](https://github.com/claudiacordobam/PAC3_Manovich_Reloaded/blob/main/FIGMA.md)
+    </p>
+    </td>
+  </tr>
+</table>
 
+## 🌍 Re-descobrint la hibridació: Globus terraqüi de GitHub
 
-## Re-descobrint la hibridació: Globus terraqüi de GitHub
+<table>
+  <tr>
+    <td>
+      <img src="https://images.unsplash.com/photo-1602576666092-bf6447a729fc?q=80&w=1932&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D">
+      </td>
+      <td>
+      <p>Per tal de potenciar la narrativa al voltant de la comunitat open source, la pàgina web de GitHub compta amb una representació d'un globus terraqüi que mostra, amb dades reals, pull-requests recents. La combinació de diferents mitjans per mostrar aquestes dades, així com la innovació que suposa, el converteixen en un exemple d'hibridació.
+        
+  [Saber-ne més](https://github.com/claudiacordobam/PAC3_Manovich_Reloaded/blob/main/FIGMA.md)
+    </p>
+    </td>
+  </tr>
+</table>
 
 ## Conclusions
 
