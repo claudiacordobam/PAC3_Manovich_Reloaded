@@ -34,7 +34,7 @@ Universitat Oberta de Catalunya
       <td>
       <p>Per tal de potenciar la narrativa al voltant de la comunitat open source, la pàgina web de GitHub compta amb una representació d'un globus terraqüi que mostra, amb dades reals, pull-requests recents. La combinació de diferents mitjans per mostrar aquestes dades, així com la innovació que suposa, el converteixen en un exemple d'hibridació.
         
-  [Saber-ne més](https://github.com/claudiacordobam/PAC3_Manovich_Reloaded/blob/main/FIGMA.md)
+  [Saber-ne més](https://github.com/claudiacordobam/PAC3_Manovich_Reloaded/blob/main/GITHUBGLOBE.md)
     </p>
     </td>
   </tr>
