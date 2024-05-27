@@ -68,5 +68,5 @@ D'acord amb Manovich, *"la hibridació dels mitjans constitueix una nova fase es
 
 
 ### Recursos gràfics usats
---------
+---
 Llicència: Material textual llicènciat sota la GNU General Public License v3.0. Les imatges conserven la llicència inicial que els autors i/o fonts originals hagin aplicat.
