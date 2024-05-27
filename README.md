@@ -64,9 +64,18 @@ D'acord amb Manovich, *"la hibridació dels mitjans constitueix una nova fase es
 
 > [6] 	GitHub, «*GitHub: Let's build from here*,» GitHub, 2024. [En línia]. Disponible: https://github.com/. [Últim accés: 23 de maig de 2024].  
 
-
-
-
 ### Recursos gràfics usats
+> [a] Angelina (@bebachka)  [Nom d’usuari]. *Ulleres de sol estil aviador amb muntura platejada*. Disponible: [https://unsplash.com/es/fotos/gafas-de-sol-estilo-aviador-con-montura-plateada-_OBHnSLxpas](https://unsplash.com/es/fotos/gafas-de-sol-estilo-aviador-con-montura-plateada-_OBHnSLxpas) (Llicència gratuïta d’Unsplash)
+
+> [b] N. Fernandes. *Home en suèter gris sostenint un telèfon intel·ligent negre*. Disponible: [https://unsplash.com/es/fotos/hombre-en-sueter-gris-sosteniendo-un-telefono-inteligente-negro-6rrIT4YcqoI](https://unsplash.com/es/fotos/hombre-en-sueter-gris-sosteniendo-un-telefono-inteligente-negro-6rrIT4YcqoI) (Llicència gratuïta d’Unsplash)
+
+> [c] Rivage (@sigmund) [Nom d’usuari]. *Monitor d’ordinador de pantalla plana negre encès al costat de tassa de ceràmica groga*. Disponible: [https://unsplash.com/es/fotos/monitor-de-computadora-de-pantalla-plana-negro-encendido-junto-a-taza-de-ceramica-amarilla-0s43f-8Dz_0](https://unsplash.com/es/fotos/monitor-de-computadora-de-pantalla-plana-negro-encendido-junto-a-taza-de-ceramica-amarilla-0s43f-8Dz_0) (Llicència gratuïta d’Unsplash)
+
+> [d] T. van Dijk. *MacBook Pro mostrant icones d'ordinador*. Disponible: [https://unsplash.com/es/fotos/macbook-pro-mostrando-iconos-de-computadora-o1SKqmgSDbg](https://unsplash.com/es/fotos/macbook-pro-mostrando-iconos-de-computadora-o1SKqmgSDbg) (Llicència gratuïta d’Unsplash)
+
+> [e] *Captura de pantalla de la landing page de GitHub en format PNG*. Obtinguda de: [https://github.com/](https://github.com/) (Fair Use)
+
+> [f] *Captura de pantalla de la landing page de GitHub en format GIF*. Obtinguda de: [https://github.com/](https://github.com/) (Fair Use)
+
 ---
 Llicència: Material textual llicènciat sota la GNU General Public License v3.0. Les imatges conserven la llicència inicial que els autors i/o fonts originals hagin aplicat.
