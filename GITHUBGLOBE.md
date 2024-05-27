@@ -9,7 +9,7 @@ Amb el globus de GitHub, elements clàssics d’animació digital i text interac
 
 Manovich comenta a la seva obra que una de les característiques de la hibridació és que permet que “s’agrupin formats i tècniques de representació de mitjans anteriors” per tal de generar noves combinacions de mitjans [2], tal com succeeix en aquest cas. Prenent tècniques que van des de l’animació tridimensional fins al tractament i processament de grans quantitats de dades o el desenvolupament web (ja que el globus es renderitza amb WebGL, però també hi intervenen altres tecnologies com three.js o JSON [4]) s’aconsegueix generar una nova representació de la realitat. Tal com ho classificaria Manovich, precisament a causa d’aquesta confluència de tècniques diverses, la representació del globus terraqüi de GitHub formaria part de la nova espècie de mitjans [2].
 
-![Captura de pantalla de la landing page de GitHub quan es va implementar al 2020, per primera vegada, el globus terraqüi interactiu](https://github.blog/wp-content/uploads/2020/12/102573836-33a1fb80-40a4-11eb-8c77-e2d328f0a570.gif?resize=640,400)
+![Captura de pantalla de la landing page de GitHub mostrant el globus terraqüi interactiu](https://github.com/claudiacordobam/PAC3_Manovich_Reloaded/blob/main/GitHubGlobe.gif)
 
 Seguint una altra de les classificacions dels híbrids proposades per Manovich, es podria considerar que el cas del globus de GitHub és un exemple d’híbrid en què es defineixen tant noves tècniques d’interacció, en poder visualitzar, de manera interactiva, dades actuals, com nous formats de mitjans [2], en aconseguir fusionar les tècniques esmentades prèviament per aportar una experiència innovadora a l’usuari.
 
