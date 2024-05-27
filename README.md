@@ -14,6 +14,8 @@ Universitat Oberta de Catalunya
 
 ## Re-descobrint la hibridació: Globus terraqüi de GitHub
 
+## Conclusions
+
 ## Referències i recursos
 ### Bibliografia
 ### Recursos gràfics usats
